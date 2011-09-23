@@ -1,0 +1,5 @@
+This project is about the implementation of ProFit: a 2D frequency domain fitting algorithm 
+for JPRESS spectroscopy with prior knowledge
+
+The files are written or generated under MATLAB 2010b. To run the simulation, you need MATLAB 2010b or higher versions with the addition of optimisation toolbox.
+The project is currently running without converging to a reasonable minimum and is up for improvement.
